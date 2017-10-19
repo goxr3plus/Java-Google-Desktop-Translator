@@ -27,7 +27,7 @@
 		<dependency>
 			<groupId>com.github.goxr3plus</groupId>
 			<artifactId>java-google-speech-api</artifactId>
-			<version>V2.0</version>
+			<version>V2.1</version>
 		</dependency>
 		<dependency>
 			<groupId>com.jfoenix</groupId>
