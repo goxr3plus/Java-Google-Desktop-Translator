@@ -1,7 +1,7 @@
 # Java-Google-Desktop-Translator
 Professional Java Google Desktop Translator + Text To Speech + Speech Recognition ( Coming Soon )
 
-
+###### Based on this Library -> Java-Google-Speech-API -> https://github.com/goxr3plus/java-google-speech-api
 
 
 # Version 1 Image
