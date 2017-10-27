@@ -1,3 +1,5 @@
+### PS Java 1.8.0_141 ++ Required ! Download Java 8 here : ( https://www.java.com/en/ )
+
 # Java-Google-Desktop-Translator
 Professional Java Google Desktop Translator + Text To Speech + Speech Recognition ( Coming Soon )
 
