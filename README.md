@@ -5,7 +5,7 @@
 
 [![Latest Version](https://img.shields.io/github/release/goxr3plus/Java-Google-Desktop-Translator.svg?style=flat-square)](https://github.com/goxr3plus/Java-Google-Desktop-Translator/releases)
 [![GitHub contributors][contributors-image]][contributors-url]
-[![HitCount](http://hits.dwyl.io/goxr3plus/Java-Google-Desktop-Translator.svg)](http://hits.dwyl.io/goxr3plus/xr3player)
+[![HitCount](http://hits.dwyl.io/goxr3plus/Java-Google-Desktop-Translator.svg)](http://hits.dwyl.io/goxr3plus/Java-Google-Desktop-Translator)
 
 Github
 [![Total Downloads](https://img.shields.io/github/downloads/goxr3plus/Java-Google-Desktop-Translator/total.svg)](https://github.com/goxr3plus/Java-Google-Desktop-Translator/releases)
